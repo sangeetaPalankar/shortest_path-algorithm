@@ -9,3 +9,7 @@ SPACE to run he code
 Press R to create random barriers 
 RIGHT CLICK to undo barrier
 Press C to clear
+
+
+
+![alt text](https://github.com/sangeetaPalankar/shortest_path-algorithm/blob/main/shortestP.png)
